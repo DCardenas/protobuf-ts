@@ -7,7 +7,5 @@
     "typescript": ">=3.8.3 <4"
   },
   "license": "(Apache-2.0 AND BSD-3-Clause)",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  "version": "0.0.1"
 }
